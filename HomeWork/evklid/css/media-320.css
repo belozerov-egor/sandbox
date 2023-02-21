@@ -1,0 +1,297 @@
+@media (max-width: 590px) {
+  .container {
+    padding: 0 15px;
+  }
+
+  .form-block__input, .form-block__textarea {
+    width: 100%;
+  }
+
+  .form-bottom__btn  {
+    margin-bottom: 15px;
+  }
+
+
+
+
+}
+
+@media (max-width: 475px) {
+
+  .header {
+    padding-top: 15px;
+    padding-bottom: 14px;
+  }
+
+  .header-block__logo {
+
+    max-width: 110px;
+    height: 35px;
+  }
+
+  .design-solutions {
+    margin-bottom: 60px;
+  }
+
+  .design-solutions__block {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+  }
+
+  .design-solutions__head {
+    margin-bottom: 8px;
+    font-size: 20px;
+    line-height: 24px;
+  }
+
+  .design-solutions__text {
+    margin-bottom: 32px;
+    font-size: 12px;
+    line-height: 15px;
+  }
+
+  .design-solutions__link {
+    padding: 12px 28px;
+    font-size: 12px;
+    line-height: 15px;
+  }
+
+  .about {
+    margin-bottom: 60px;
+  }
+
+  .about-top {
+    margin-bottom: 15px;
+  }
+
+  .about-top__head {
+    margin-bottom: 20px;
+    font-size: 24px;
+    line-height: 29px;
+  }
+
+  .about-top__text {
+    font-size: 14px;
+    line-height: 28px;
+  }
+
+  .builder-left {
+    min-height: 398px;
+    margin-bottom: 35px;
+    background-size: 100% 200px;
+    background-position: top;
+  }
+
+  .builder-left__inner {
+    flex-wrap: wrap;
+    padding: 0;
+    background-color: transparent;
+
+  }
+
+  .builder-left__text {
+    min-width: 290px;
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    color: #333333;
+  }
+
+  .builder-left__link {
+    padding: 10px 40px;
+    border: 2px solid #FF9900;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: var(--gold-color);
+  }
+
+  .builder-left__link:hover {
+    color: #ffff;
+  }
+
+  .builder-block-right {
+    padding: 0;
+    padding-top: 60px;
+    border: none;
+    background-size: 61px 51px;
+    background-position: 0px 0px;
+  }
+
+
+  .builder-block-right__title {
+    max-width: 250px;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 22px;
+  }
+
+  .builder-block-right__text {
+    font-size: 14px;
+    line-height: 28px;
+  }
+
+  .work {
+    margin-bottom: 62px;
+}
+
+  .work__head {
+    margin-bottom: 18px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+  }
+
+  .work__list {
+    margin-bottom: 12px;
+  }
+
+  .list-numbers__items:not(:last-child) {
+    margin-right: 0;
+  }
+
+  .list-numbers__btn {
+    font-size: 14px;
+    line-height: 17px;
+  }
+
+  .work-block {
+    padding-top: 180px;
+    background-size: 100% 160px;
+  }
+
+  .left-work__title {
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 32px;
+  }
+
+  .left-work__text {
+    margin-bottom: 18px;
+    font-size: 14px;
+    line-height: 28px;
+  }
+
+  .btn-block__left-link {
+    margin-right: 7px;
+    padding: 11px 44px;
+    font-size: 12px;
+    line-height: 15px;
+  }
+
+  .btn-block__right-link {
+    padding: 11px 30px;
+    font-size: 12px;
+    line-height: 15px;
+  }
+
+  .questions { 
+    margin-bottom: 60px;
+  }
+  
+
+  .questions-head {
+    margin-bottom: 17px;
+    font-size: 24px;
+line-height: 29px;
+  }
+
+  .questions-menu__link {
+    margin-right: 22px;
+  }
+
+  .link-block__head {
+    max-width: 235px;
+    padding: 30px 0;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.questions-menu__items svg {
+  width: 30px;
+  height: 30px;
+}
+
+
+
+.footer {
+  padding-top: 32px;
+}
+
+.footer-container__center {
+  margin-bottom: 15px;
+}
+
+
+.center-content__block {
+  margin-bottom: 0px;
+}
+
+.center-content__head {
+  margin-bottom: 20px;
+  font-size: 24px;
+line-height: 29px;
+}
+
+.form-block__input, .form-block__textarea  {
+  padding-left: 20px;
+  font-size: 14px;
+line-height: 32px;
+}
+
+.form-bottom{
+  padding-bottom: 22px;
+  text-align: center;
+  border-bottom:1px solid #595959;
+}
+
+
+.form-bottom__btn {
+margin-right: 0;
+margin-bottom: 18px;
+padding: 10px 30px;
+font-size: 12px;
+line-height: 15px;
+}
+
+.left-block {
+  text-align: center;
+}
+
+.left-block__link {
+  width: 131px;
+  height: 42px;
+background-size: cover;
+}
+
+.left-social {
+  justify-content: center;
+}
+
+
+.left-social__items:not(:last-child) {
+  margin-right: 15px;
+}
+
+.left-social__link {
+  width: 40px;
+height: 40px;
+}
+
+.left-social__link svg {
+  width: 40px;
+height: 40px;
+}
+
+.vk, .instagram {
+  background-size: cover;
+}
+
+
+
+}

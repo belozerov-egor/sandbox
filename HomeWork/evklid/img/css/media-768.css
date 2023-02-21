@@ -1,0 +1,80 @@
+@media (max-width: 768px) {
+
+  .container {
+    padding: 0 50px;
+  }
+
+  .header {
+    padding-top: 9px;
+    padding-bottom: 10px;
+  }
+
+  .design-solutions__block {
+    padding-top: 160px;
+    padding-left: 40px;
+    padding-bottom: 160px;
+    background-size: cover;
+  }
+
+  .design-solutions__head {
+    font-size: 50px;
+    line-height: 61px;
+  }
+
+  .design-solutions__text {
+    max-width: 590px;
+    margin-bottom: 60px;
+    font-size: 18px;
+    line-height: 22px;
+  }
+
+  .builder-left {
+    min-height: 650px;
+  }
+
+  .builder-left__inner {
+    padding-top: 28px;
+    padding-right: 0;
+    padding-left: 40px;
+    padding-bottom: 38px;
+  }
+
+  .builder-left__text {
+    max-width: 366px;
+    margin-right: 42px;
+  }
+
+  .builder-block-right {
+    width: 668px;
+    padding-top: 32px;
+    padding-left: 170px;
+    padding-bottom: 40px;
+  }
+
+  .block-right-top {
+    background-size: 114px 99px;
+    background-position: 40px 65px;
+  }
+
+  .block-right-bottom {
+    background-size: 114px 99px;
+    background-position: 40px 65px;
+  }
+
+  .list-numbers {
+    justify-content: space-between;
+  }
+
+  .work-block {
+    padding-top: 320px;
+    background-image: url(../img/Rectangle-18-768.jpg);
+    background-position: top;
+  }
+
+  .left-work__text {
+      max-width: 667px;
+  }
+
+
+
+}
